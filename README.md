@@ -8,5 +8,10 @@ This project is a starting point for a Flutter application.
 
 <!-- ![Counter APP](assets/app.jpg) -->
 
-<img src="assets/app.jpg" alt="Counter APP" width="200" height="400">
+<div style="display: flex; gap: 20px;">
+  <img src="assets/counter_app.gif" alt="Counter APP" width="200" height="400">
 
+  <video width="200" height="400" controls>
+    <source src="assets/counter_app.mp4" type="video/mp4">
+  </video>
+</div>
